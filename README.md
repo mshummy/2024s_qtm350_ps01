@@ -8,3 +8,4 @@ Our project will be using webscraped data from Wikipedia. Wikipedia is a free-co
 
 ## References and Resources  
 https://en.wikipedia.org/wiki/Wikipedia
+https://huggingface.co/datasets/wikipedia
