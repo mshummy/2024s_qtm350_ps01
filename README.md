@@ -9,7 +9,7 @@ Our project will be using webscraped data from Wikipedia. Wikipedia is a free-co
 The greatest challenge for our process was controlling the versions between group members. It requires a good amount of communication between members so that progress is tracked and purposively worked upon. This was overcome by being attentive to any changes made by respective members as well as being intentional about the naming conventions of individual changes. 
 
 ## Contributions
-Jonathan was tasked with both the description, objectives, and resources of the larger project. Max was given the responsibility of creating the title, detailing each group members' contributions as well as describing the challenges faced and how they were overcome. ** 
+Jonathan was tasked with both the description, objectives, and resources of the larger project. Max was given the responsibility of creating the title, detailing each group members' contributions as well as describing the challenges faced and how they were overcome. Daniel outlined the overarching goals of our project and what the end product will look like.
 
 ## References and Resources  
 https://en.wikipedia.org/wiki/Wikipedia  
